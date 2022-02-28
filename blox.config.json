@@ -1,0 +1,1 @@
+{"name":"Testoo","type":2,"source":{"https":"https://github.com/Digambaran/_hk_Testoo","ssh":"git@github.com:Digambaran/_hk_Testoo.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
